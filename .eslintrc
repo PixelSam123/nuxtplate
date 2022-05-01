@@ -15,5 +15,8 @@
     "plugin:vue/vue3-recommended",
     "plugin:nuxt/recommended",
     "prettier"
-  ]
+  ],
+  "rules": {
+    "no-undef": "off"
+  }
 }
